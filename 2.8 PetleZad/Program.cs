@@ -90,7 +90,7 @@ namespace _2._8.PetleZad
             //Console.WriteLine($"{result}");
             //______________________________________________________________________________________________________
 
-            //4.Napisz program, który po podaniu liczby całkowitej wyświetli piramidę liczb od 1 do podanej liczby w formie jak poniżej:
+            //4. Napisz program, który po podaniu liczby całkowitej wyświetli piramidę liczb od 1 do podanej liczby w formie jak poniżej:
 
             //Console.WriteLine("Podaj górną granicę: ");
             //int end = Int32.Parse(Console.ReadLine());
@@ -106,7 +106,7 @@ namespace _2._8.PetleZad
             //}
             //______________________________________________________________________________________________________
 
-            //5.Napisz program, który dla liczb od 1 do 20 wyświetli na ekranie ich 3 potęgę.
+            //5. Napisz program, który dla liczb od 1 do 20 wyświetli na ekranie ich 3 potęgę.
 
             //for (int a = 1; a <= 20; a++)
             //{
@@ -115,7 +115,7 @@ namespace _2._8.PetleZad
             //}
             //______________________________________________________________________________________________________
 
-            //6.Napisz program, który dla liczb od 0 do 20 obliczy sumę wg wzoru: 1+ ½ + 1/3 + ¼ itd.
+            //6. Napisz program, który dla liczb od 0 do 20 obliczy sumę wg wzoru: 1+ ½ + 1/3 + ¼ itd.
 
             //for (int a = 0; a<=20; a++)
             //{
@@ -132,7 +132,7 @@ namespace _2._8.PetleZad
             //}
             //______________________________________________________________________________________________________
 
-            //7.Napisz program, który dla liczby zadanej przez użytkownika narysuje diament o krótszej przekątnej o długości wprowadzonej przez użytkownika i wg wzoru:...
+            //7. Napisz program, który dla liczby zadanej przez użytkownika narysuje diament o krótszej przekątnej o długości wprowadzonej przez użytkownika i wg wzoru:...
 
             //Console.WriteLine("Type in a number for diamond's shorter diagonal: ");
             //int input = Int32.Parse(Console.ReadLine());
@@ -163,7 +163,7 @@ namespace _2._8.PetleZad
             //}
             //______________________________________________________________________________________________________
 
-            //8.Napisz program, który odwróci wprowadzony przez użytkownika ciąg znaków.
+            //8. Napisz program, który odwróci wprowadzony przez użytkownika ciąg znaków.
 
             //Console.WriteLine("Type in a string for reversal: ");
             //string input = Console.ReadLine();
@@ -211,6 +211,7 @@ namespace _2._8.PetleZad
             //______________________________________________________________________________________________________
 
             //10. Napisz program, który znajdzie najmniejszą wspólną wielokrotność dla zadanych 2 liczb.
+            
             //Console.WriteLine("Type in numbers for finding least common multiple.");
             //Console.WriteLine("Type in first number: ");
             //int a = int.Parse(Console.ReadLine());
