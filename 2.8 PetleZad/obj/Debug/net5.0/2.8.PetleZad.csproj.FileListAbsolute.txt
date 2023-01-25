@@ -1,0 +1,16 @@
+C:\Users\sgibek\source\repos\2.8.PetleZad\bin\Debug\net5.0\2.8.PetleZad.exe
+C:\Users\sgibek\source\repos\2.8.PetleZad\bin\Debug\net5.0\2.8.PetleZad.deps.json
+C:\Users\sgibek\source\repos\2.8.PetleZad\bin\Debug\net5.0\2.8.PetleZad.runtimeconfig.json
+C:\Users\sgibek\source\repos\2.8.PetleZad\bin\Debug\net5.0\2.8.PetleZad.runtimeconfig.dev.json
+C:\Users\sgibek\source\repos\2.8.PetleZad\bin\Debug\net5.0\2.8.PetleZad.dll
+C:\Users\sgibek\source\repos\2.8.PetleZad\bin\Debug\net5.0\ref\2.8.PetleZad.dll
+C:\Users\sgibek\source\repos\2.8.PetleZad\bin\Debug\net5.0\2.8.PetleZad.pdb
+C:\Users\sgibek\source\repos\2.8.PetleZad\obj\Debug\net5.0\2.8.PetleZad.csproj.AssemblyReference.cache
+C:\Users\sgibek\source\repos\2.8.PetleZad\obj\Debug\net5.0\2.8.PetleZad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sgibek\source\repos\2.8.PetleZad\obj\Debug\net5.0\2.8.PetleZad.AssemblyInfoInputs.cache
+C:\Users\sgibek\source\repos\2.8.PetleZad\obj\Debug\net5.0\2.8.PetleZad.AssemblyInfo.cs
+C:\Users\sgibek\source\repos\2.8.PetleZad\obj\Debug\net5.0\2.8.PetleZad.csproj.CoreCompileInputs.cache
+C:\Users\sgibek\source\repos\2.8.PetleZad\obj\Debug\net5.0\2.8.PetleZad.dll
+C:\Users\sgibek\source\repos\2.8.PetleZad\obj\Debug\net5.0\ref\2.8.PetleZad.dll
+C:\Users\sgibek\source\repos\2.8.PetleZad\obj\Debug\net5.0\2.8.PetleZad.pdb
+C:\Users\sgibek\source\repos\2.8.PetleZad\obj\Debug\net5.0\2.8.PetleZad.genruntimeconfig.cache
